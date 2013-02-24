@@ -1,0 +1,396 @@
+entityid,Name,Phone,InPhoneBook,Denomination,Full_Address,Municipality,PostalCode,NBH_ID,NBH_MUNICIPALITY,Long,Lat
+,St. Martin of Tours Roman Catholic Church,905-957-3973,Yes,Roman Catholic,166 West Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5502198339857,43.1002268238263
+,Christ Lutheran Church,905-685-8294,Yes,Lutheran,134-140 Russell Avenue ,City of St. Catharines,L2R1W1,ST11,St. Catharines,-79.2445668444849,43.1699667412415
+,Jehovah's Witnesses Kingdom Hall,Not Available,No,Jehovah's Witnesses,360 Killaly Street East,City of Port Colborne,L3K1P4,PC2,Port Colborne,-79.2357344177913,42.8920185725595
+,Life Abundant Fellowship Church,905-688-3958,Yes,Non-Denominational,384 Concession 7 Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL4,Niagara-on-the-Lake,-79.145483540437,43.1642477914121
+,Caistorville United Church,905-692-9990,Yes,United,9550 York Road ,Township of West Lincoln,L0R2J0,WL2,West Lincoln,-79.7175700668312,43.0498572378491
+,Italian Christian Church,905-354-3250,No,Italian Christian,5489 Desson Avenue ,City of Niagara Falls,L2G3S9,NF3,Niagara Falls,-79.0832460882214,43.0948875191612
+,Seventh Day Adventist Church,905-358-9728,Yes,Seventh-Day Adventist,5355 Belmont Avenue ,City of Niagara Falls,L2G5T4,NF5,Niagara Falls,-79.1208741971171,43.0951000918268
+,New Apostolic Church,905-371-8643,No,New Apostolic,5864 Church's Lane ,City of Niagara Falls,L2J1Y7,NF1,Niagara Falls,-79.0932781770099,43.1300422523669
+,All Saints Church,905-735-0061,Yes,Anglican,80 Forks Road ,City of Welland,L3B5K5,WD5,Welland,-79.2427045342001,42.9476071433974
+,Ukrainian Orthodox Church,905-354-4901,Yes,Ukrainian Orthodox,5906 Sylvia Place ,City of Niagara Falls,L2G4C1,NF3,Niagara Falls,-79.090688543437,43.0890959586
+,St. Johns Anglican Church,905-680-8942,Yes,Anglican,12 Carleton Street South,City of Thorold,L2V1R6,TH2,Thorold,-79.1973522931107,43.1238569858956
+,The Church of Jesus Christ,905-871-9974,Yes,Baptist,245 High Street ,Town of Fort Erie,L2A3R4,FE4,Fort Erie,-78.9156044987333,42.9114212094871
+,Eglise Sacre Coeur,905-735-5823,Yes,Roman Catholic,72 Empire Street ,City of Welland,L3B2L4,WD2,Welland,-79.2394036419487,42.9911867478174
+,Westminster United Church,905-682-8140,Yes,United,180 Queenston Street ,City of St. Catharines,L2R2Z7,ST9,St. Catharines,-79.2273681959218,43.1618943890545
+,Lifeline Ministries,905-934-2379,Yes,Non-Denominational,89 Geneva Street ,City of St. Catharines,L2R4M9,ST10,St. Catharines,-79.2405243962585,43.1646655575123
+,Mountain Park Church,905-374-2911,Yes,Mennonite Brethren,6948 Mountain Road ,City of Niagara Falls,L2E6S4,NF1,Niagara Falls,-79.1141189231465,43.1366152018675
+,First Reformed Church of St. Catharines,905-685-1441,Yes,Reformed,1132-1136 Vansickle Road North,City of St. Catharines,L2S2Z3,ST3,St. Catharines,-79.2715311936389,43.1611191134258
+,Niagara Christian Assembly,905-468-8971,Yes,Pentecostal Assemblies,37 Grange Crescent ,Town of Niagara-on-the-Lake,L0S1T0,NOTL3,Niagara-on-the-Lake,-79.1285680641385,43.224839330281
+,Salvation Army Citadel,905-354-2834,No,Salvation Army,6812 Lundy's Lane ,City of Niagara Falls,L2G1V6,NF3,Niagara Falls,-79.1088863816788,43.0889013450238
+,Croatian Roman Catholic Parish of St. Anthony of Padova Mikic Alojzije Rev,905-732-3839,Yes,Roman Catholic,360 River Road ,City of Welland,L3B2S4,WD1,Welland,-79.2385319493698,43.0015653481575
+,Port Colborne Baptist Church,905-835-5668,Yes,Baptist,84 Ridgewood Avenue ,City of Port Colborne,L3K5N8,PC1,Port Colborne,-79.2688292981771,42.8858684215709
+,Brockview Bible Chapel,905-684-7161,Yes,Gospel,326 Pelham Road ,City of St. Catharines,L2S1Y3,ST4,St. Catharines,-79.266688716154,43.1243192763841
+,Unitarian Church,905-687-8433,Yes,Unitarian,223 Church Street ,City of St. Catharines,L2R3E8,ST9,St. Catharines,-79.2367377186342,43.164160557001
+,Vineland Pentecostal,905-562-4693,Yes,Pentecostal,3994 Victoria Avenue ,Town of Lincoln,L0R2C0,LN3,Lincoln,-79.393527976208,43.1555394505768
+,Niagara Christian Life Assembly,905-374-8915,Yes,Pentecostal Assemblies,5140 Kalar Road ,City of Niagara Falls,L2H1T2,NF6,Niagara Falls,-79.1359108329599,43.0989835224172
+,United Pentecostal Church,905-646-0884,Yes,United Pentecostal,8 Forster Street ,City of St. Catharines,L2N1Z9,ST16,St. Catharines,-79.2373354322082,43.1869947169841
+,Hephzibah Church of Jesus Christ,905-685-7388,Yes,Pentecostal,95 Niagara Street ,City of St. Catharines,L2R4L3,ST9,St. Catharines,-79.2363163919099,43.1673892514304
+,Hungarian Presbyterian Church,905-735-0636,Yes,Presbyterian,142 Second Street ,City of Welland,L3B4T9,WD4,Welland,-79.2459541371303,42.98219340259
+,St. Andrews Presbyterian Church,905-468-3363,Yes,Presbyterian,323 Simcoe Street ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.0799407988397,43.2552685356581
+,Faith Tabernacle Pentecostal,905-735-6811,Yes,Pentecostal Assemblies,380 South Pelham Road ,City of Welland,L3B5N8,WD12,Welland,-79.2847153026097,42.993641387305
+,United Mennonite Church,Not Available,No,Mennonite Brethren,335 Linwell Road ,City of St. Catharines,L2M7W7,ST16,St. Catharines,-79.2323017843719,43.1983198553271
+,Wayside Chapel,Not Available,No,Non-Denominational,14916 Niagara River Parkway ,Town of Niagara-on-the-Lake,L0S1J0,NOTL2,Niagara-on-the-Lake,-79.0587140365709,43.1849833771104
+,Mountainview United,905-682-0944,Yes,United,150 Glendale Avenue ,City of St. Catharines,L2T2K1,ST7,St. Catharines,-79.2350462949977,43.1332407444576
+,Bethel Community United Church,Not Available,No,United,4938 Elcho Road ,Township of West Lincoln,L0R2J0,WL3,West Lincoln,-79.4407867087889,43.0173662726485
+,St. Mary's Dormition Ukrainian Catholic Church,905-945-6369,Yes,Ukrainian Catholic,103 Mountain Road ,Town of Grimsby,L3M4G1,GR1,Grimsby,-79.5608769647261,43.1814965203106
+,Wellspring Community Church,905-735-2503,Yes,Independent Full Gospel,370 South Pelham Road ,City of Welland,L3B5Y5,WD12,Welland,-79.2846760491412,42.992229852831
+,United Brethren Church Hall,Not Available,No,United,1351 Garrison Road ,Town of Fort Erie,L2A1P4,FE5,Fort Erie,-78.9656364726619,42.9043080941583
+,Elcho United Church,905-386-6878,Yes,United,6432 Elcho Road ,Township of West Lincoln,L0R2J0,WL2,West Lincoln,-79.551026410179,43.0145280515383
+,Grantham Mennonite Brethren Church,905-935-5811,Yes,Mennonite Brethren,469 Grantham Avenue ,City of St. Catharines,L2M3J2,ST15,St. Catharines,-79.2220585395035,43.1964825426529
+,First Baptist Church,905-871-6577,Yes,Baptist,165 Bertie Street ,Town of Fort Erie,L2A1Y9,FE4,Fort Erie,-78.9191942198484,42.9134044249223
+,Queensway Free Methodist,905-356-7800,Yes,Free Methodist,4397 Dorchester Road ,City of Niagara Falls,L2E6N5,NF1,Niagara Falls,-79.1120383832937,43.1096878280258
+,Jehovah's Witnesses Kingdom Hall,905-892-4680,Yes,Jehovah's Witnesses,1369 Rice Road ,Town of Pelham,L0S1E0,PE2,Pelham,-79.269647438312,43.0417641594636
+,Grapeview Free Methodist Church,905-682-7641,Yes,Mennonite Brethren,1102 Vansickle Road North,City of St. Catharines,L2M1S8,ST3,St. Catharines,-79.2721407623094,43.1636650981383
+,Pelham Centre United Church,905-892-5922,Yes,United,461 Canboro Road ,Town of Pelham,L0S1C0,PE1,Pelham,-79.3270731723943,43.0344530230367
+,St. Paul's Anglican Church,905-871-6704,Yes,Anglican,32 Idylewylde Street ,Town of Fort Erie,L2A2L1,FE4,Fort Erie,-78.9124523555994,42.9197748890197
+,The Little Wedding Chapel,905-357-0266,Yes,Non-Denominational,7701 Lundy's Lane ,City of Niagara Falls,L2H1H3,NF5,Niagara Falls,-79.1257678239763,43.089229727721
+,Port of Grace,905-834-2170,Yes,United Brethren,25 Charlotte Street ,City of Port Colborne,L3K3C7,PC1,Port Colborne,-79.2508001611352,42.8856567353519
+,Cornerstone Community Mennonite Brethren Church,905-468-7155,Yes,Mennonite Brethren,1570 Niagara Stone Road ,Town of Niagara-on-the-Lake,L0S1T0,NOTL3,Niagara-on-the-Lake,-79.1197351041045,43.2244074918459
+,Iglesia de Cristo Misionera,905-641-0718,Yes,Pentecostal,112 Oakdale Avenue ,City of St. Catharines,L2R7P4,ST8,St. Catharines,-79.2191950280444,43.145993513712
+,Trinity United Church at Campden,Not Available,No,United,4176 Fly Road ,Town of Lincoln,L0R1G0,LN4,Lincoln,-79.431612777749,43.1348456242806
+,Ridgeville Bible Chapel,905-892-3347,Yes,Gospel,418 Canboro Road ,Town of Pelham,L3C2S9,PE4,Pelham,-79.322656233676,43.0350906018579
+,B'Nai Tikvah,905-354-3934,Yes,Reform Judaism,5328 Ferry Street ,City of Niagara Falls,L2G1R7,NF3,Niagara Falls,-79.0821966586264,43.089291579522
+,Calvary Gospel Church,905-563-4151,Yes,Associated Gospel Church,4129 Hixon Street ,Town of Lincoln,L0R1B7,LN2,Lincoln,-79.4741755830327,43.1584043571864
+,St. Andrew's Anglican Church,905-945-8894,Yes,Anglican,7 Saint Andrew Avenue ,Town of Grimsby,L3M3R9,GR3,Grimsby,-79.5695757255747,43.194007401035
+,The Salvation Army,905-871-1592,Yes,Christian,255 Gilmore Road ,Town of Fort Erie,L2A6G8,FE4,Fort Erie,-78.9244881117874,42.9200875644624
+,Queen of Angels Oratory,905-680-0447,Yes,Roman Catholic,75 Rolls Avenue ,City of St. Catharines,L2V4Y6,ST12,St. Catharines,-79.2331037982869,43.177612803027
+,St. Andrew the Apostle Church,905-732-5046,Yes,Roman Catholic,22 Golden Boulevard East,City of Welland,L3B1H4,WD2,Welland,-79.229007705941,42.9920168459167
+,St. John's Anglican Church,905-680-8942,Yes,Anglican,23 Carlton Street ,City of St. Catharines,L2R1P5,ST11,St. Catharines,-79.2616601663588,43.1680536528563
+,Jehovah's Witnesses Kingdom Hall,905-732-3116,Yes,Jehovah's Witnesses,862 Lyons Creek Road ,City of Welland,L3B5N4,WD1,Welland,-79.1765417848539,42.9976072690622
+,First Presbyterian Church,Not Available,No,Presbyterian,1436 York Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL2,Niagara-on-the-Lake,-79.1005580987822,43.158758649822
+,Living Waters Baptist Church,905-354-1545,Yes,Baptist,5511 Desson Avenue ,City of Niagara Falls,L2G3S9,NF3,Niagara Falls,-79.0832275916585,43.0945450345096
+,Christ Church,905-358-9712,Yes,Anglican,4750 Zimmerman Avenue ,City of Niagara Falls,L2E3M9,NF2,Niagara Falls,-79.0616125291165,43.1049434321986
+,Trinity United Church,905-227-4644,Yes,United,15 Pine Street South,City of Thorold,L2V3L1,TH2,Thorold,-79.2040065629599,43.1239646189454
+,Westburne Alliance Church,905-682-3511,Yes,Christian & Missionary,237 Rykert Street ,City of St. Catharines,L2N6P3,ST4,St. Catharines,-79.2706049331658,43.1355119044186
+,St. George & St. Mercurius Coptic Orthodox Church,905-684-9594,Yes,Roman Catholic,118 Glenridge Avenue ,City of St. Catharines,L2R4X7,ST6,St. Catharines,-79.2402963868986,43.1459988195421
+,St. Columba Church,905-935-4473,Yes,Anglican,7 Saint Columba Drive ,City of St. Catharines,L2N3G4,ST17,St. Catharines,-79.2431648700348,43.1957070669791
+,Bethany Christian Reformed Church,905-892-8980,Yes,Christian Reformed,1040 Balfour Street ,Town of Pelham,L0S1C0,PE4,Pelham,-79.3526632222646,43.0221255225272
+,Christian Reformed Church,905-356-0832,Yes,Christian Reformed,4880 Jepson Street ,City of Niagara Falls,L2E1K1,NF2,Niagara Falls,-79.0741188251118,43.1001844889
+,Jehovah's Witnesses Kingdom Hall,905-354-1282,Yes,Jehovah's Witnesses,6735 Caledonia Street ,City of Niagara Falls,L2G5A6,NF3,Niagara Falls,-79.1068344810596,43.073795310867
+,Sherkston United Church,905-894-0392,Yes,United,5224 Highway 3  ,City of Port Colborne,L0S1R0,PC4,Port Colborne,-79.1278349030949,42.892724198693
+,Cathedral of St. Catharine,905-684-3964,Yes,Roman Catholic,67 Church Street ,City of St. Catharines,L2R5M8,ST10,St. Catharines,-79.2466624378531,43.1606926789488
+,Vineland Free Reformed Church,905-562-4521,Yes,Free Reformed,3685 King Street ,Town of Lincoln,L0R2C0,LN1,Lincoln,-79.4083161083423,43.1573789215375
+,Holy Face of Jesus (Society of St. Pius X),905-704-0038,Yes,Reformed,181 Lake Street ,City of St. Catharines,L2R5Y8,ST11,St. Catharines,-79.2515101257142,43.169651453984
+,Gospel Hall (Oakwood),905-358-0377,Yes,Gospel,7154 Adams Avenue ,City of Niagara Falls,L2G5C3,NF3,Niagara Falls,-79.1062774691737,43.0719435357282
+,Port Colborne Brethren in Christ Church,905-835-2361,Yes,Brethren in Christ,10641 Highway 3  ,Township of Wainfleet,L3K5V4,WF1,Wainfleet,-79.3101706055377,42.8908111421697
+,Beacon of Grace Bible Church,905-562-7170,Yes,Bible Churches,4226 Thirteenth Street ,Town of Lincoln,L0R1S0,LN3,Lincoln,-79.3411595430178,43.1682051317494
+,Knox Presbyterian Chuch,905-641-8868,Yes,Presbyterian,53 Church Street ,City of St. Catharines,L2R3C3,ST10,St. Catharines,-79.2477682405019,43.1597280731327
+,Niagara Church of the Nazarene,905-680-2211,Yes,Church of the Nazarene,136 Confederation Avenue ,City of Thorold,L2V5A6,TH3,Thorold,-79.2218986797511,43.1119835391946
+,Our Lady of Peace Roman Catholic Church,905-358-3791,Yes,Roman Catholic,7021 Stanley Avenue ,City of Niagara Falls,L2G7B7,NF3,Niagara Falls,-79.0829568266311,43.0733826644668
+,St. Luke's Anglican Church,905-945-3262,Yes,Anglican,216 Station Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5459183061969,43.1004171898248
+,Immanuel  Orthodox Reformed Church,905-562-8221,Yes,Reformed,4900 Fourth Avenue ,Town of Lincoln,L0R1S0,LN3,Lincoln,-79.3683243403161,43.1516130358754
+,Lundy's Lane United,905-358-5622,Yes,United,6085 Lundy's Lane ,City of Niagara Falls,L2G7C2,NF3,Niagara Falls,-79.0951706045794,43.0897166474164
+,St. Mary's Ukrainian Catholic Church,905-354-7876,Yes,Ukrainian Catholic,6248 Main Street ,City of Niagara Falls,L2G6A4,NF3,Niagara Falls,-79.0879877991601,43.0846238313396
+,St. John's Greek Catholic Church Hall,905-735-3433,Yes,Greek Catholic,111 Second Street ,City of Welland,L3B4T8,WD4,Welland,-79.2456381106166,42.9816143117707
+,All Peoples United Church,905-732-7431,Yes,United,109 Chaffey Street ,City of Welland,L3B2Y6,WD5,Welland,-79.2439270633055,42.9727918864878
+,St. Philip by the Lake Church,905-945-5022,Yes,Unknown,377 Park Road North,Town of Grimsby,L3M2P6,GR5,Grimsby,-79.5254384793871,43.1923348677922
+,St. Elizabeth Church,905-899-3423,Yes,Roman Catholic,31928 Highway 3  ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.3745199664754,42.9220776136439
+,Glad Tiding Church of God,905-892-5122,Yes,Church of God,9 Pancake Lane ,Town of Pelham,L0S1M0,PE2,Pelham,-79.2871819706313,43.0350418769427
+,Vineland United Mennonite,905-562-4422,Yes,United Mennnonite,3327 Menno Street ,Town of Lincoln,L0R2C0,LN3,Lincoln,-79.3893815542474,43.1561289438877
+,Pentecostal Tabernacle,905-835-5587,Yes,Pentecostal Assemblies,12 Erie Street ,City of Port Colborne,L3K4L7,PC1,Port Colborne,-79.2534456868243,42.8920286432504
+,St. Denis Church,905-685-5911,Yes,Roman Catholic,230 Lake Street ,City of St. Catharines,L2R5Z3,ST11,St. Catharines,-79.2506280929006,43.1724451613429
+,Golden Harvest Baptist Chapel,Not Available,No,Baptist,3130 Point Abino Road North,Town of Fort Erie,L0S1S0,FE1,Fort Erie,-79.0941406905784,42.9595833576429
+,Caistor Centre Free Methodist Church,905-957-3256,No,Methodist,8488 Bismark Road ,Township of West Lincoln,L0R2A0,WL2,West Lincoln,-79.6511061496185,43.0696440077735
+,Ukrainian STS Cyril & Methodius Church,905-646-0362,Yes,Ukrainian Catholic,14 Rolls Avenue ,City of St. Catharines,L2N1W1,ST12,St. Catharines,-79.2314599635799,43.1743091981667
+,Memorial United Church,905-641-5050,Yes,United,103-105 Maple Street ,City of St. Catharines,L2R2B4,ST9,St. Catharines,-79.2362928953345,43.1680034944035
+,St. John the Evangelist Church,905-354-1227,Yes,Anglican,3428 Portage Road ,City of Niagara Falls,L2J2K4,NF1,Niagara Falls,-79.0990803227673,43.1234981701164
+,Holy Trinity Church,905-734-3543,Yes,Anglican,77 Division Street ,City of Welland,L3B3Z8,WD3,Welland,-79.2483057178993,42.9907909099661
+,St. Mary of the Assumption,905-682-3843,Yes,Roman Catholic,169 Saint Paul Crescent ,City of St. Catharines,L2S1N4,ST5,St. Catharines,-79.2517143335713,43.1475848668749
+,Centennial Park Baptist Church,905-945-8932,Yes,Baptist,11 Kennedy Road ,Town of Grimsby,L3M1E8,GR7,Grimsby,-79.5505666771804,43.1876385220444
+,Lighthouse Baptist Church,905-641-0100,Yes,Baptist,8 Campbell Avenue ,City of St. Catharines,L2P2M4,ST8,St. Catharines,-79.2221527610983,43.1521200378632
+,North Haven Church of God,905-732-2162,Yes,Church of God,3 Carlton Avenue ,City of Welland,L3C3V3,WD9,Welland,-79.2544416530183,43.0042530443626
+,St. John's United Church,905-382-3344,Yes,United,14789 Sodom Road ,City of Niagara Falls,L0S1S0,NF4,Niagara Falls,-79.057251376762,42.9677630585114
+,Lutheran Church of the Good Shepard,905-356-3971,Yes,Lutheran,3900 Dorchester Road ,City of Niagara Falls,L2J4J2,NF1,Niagara Falls,-79.111570324249,43.116266944727
+,British Methodist Episcopal Church,905-358-9957,Yes,Methodist,5674 Peer Street ,City of Niagara Falls,L2G1X1,NF3,Niagara Falls,-79.0884593865766,43.0875414538748
+,Queen Street Baptist Church,905-684-6264,Yes,Baptist,57 Queen Street ,City of St. Catharines,L2R5G8,ST10,St. Catharines,-79.2485219350044,43.1577538313717
+,Lao Christian Fellowship,905-687-4940,Yes,Mennonite Brethren,79 Page Street ,City of St. Catharines,L2R4A8,ST9,St. Catharines,-79.2342533629759,43.1683123628934
+,Niagara Orchard Community Church,Not Available,No,Unknown,8169 Spring Blossom Drive ,City of Niagara Falls,L2H3G5,NF5,Niagara Falls,-79.1338744096421,43.0902138161849
+,Caistor Baptist Church,905-385-2029,No,Baptist,9178 Concession Five Road ,Township of West Lincoln,L0R1E0,WL2,West Lincoln,-79.6845300775873,43.0964075062087
+,St. John's Bosco Church,905-835-5418,Yes,Roman Catholic,375 Main Street West,City of Port Colborne,L3K3V9,PC3,Port Colborne,-79.2572337986414,42.8991287747452
+,Church of Christ Tintern,905-563-6311,Yes,Church of Christ,4357 Spring Creek Road ,Town of Lincoln,L0R2C0,LN4,Lincoln,-79.4392971332181,43.1052116338223
+,Grace Christian Reformed Church,905-732-9942,Yes,Christian Reformed,660 South Pelham Road ,City of Welland,L3C3C8,WD10,Welland,-79.2842510153148,43.00691052086
+,Scottlea Presbyterian Church,905-646-0616,Yes,Presbyterian,515 Scott Street ,City of St. Catharines,L2M2P1,ST15,St. Catharines,-79.2151337349459,43.1943389210366
+,Chippawa Presbyterian Church,905-295-4231,Yes,Presbyterian,8280 Willoughby Drive ,City of Niagara Falls,L2G6X2,NF4,Niagara Falls,-79.0490836278007,43.0579517126375
+,Providence Christian Reformed,905-563-7249,Yes,Christian Reformed,4845 King Street ,Town of Lincoln,L0R1B8,LN1,Lincoln,-79.4687414834501,43.163608571518
+,Armenian St. Gregory Church,905-685-8701,Yes,Orthodox,49 Carlton Avenue ,City of Welland,L3C1P8,WD9,Welland,-79.2544666306367,43.0067614468843
+,Canadian Reform Church,Not Available,No,Canadian Reformed Church,85948 Canborough Road ,Township of Wainfleet,N1A2W1,WF1,Wainfleet,-79.577424686175,42.9924955473096
+,Cooks Mills United Church,905-732-1432,Yes,United,18 Guest Road ,City of Welland,L3B5N7,WD1,Welland,-79.1776965302612,42.997870199276
+,Trinity Christian Reformed Church Pastors Study,905-935-2304,Yes,Christian Reformed,1230 Old Martindale Road ,City of St. Catharines,L2R6P9,ST1,St. Catharines,-79.2866563523565,43.187978543864
+,Cornerstone Christian Assembly,905-957-5727,No,Christian Assemby,214 West Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5523855794198,43.1014763253509
+,St. Patrick's Church,905-354-7451,Yes,Roman Catholic,4705 Victoria Avenue ,City of Niagara Falls,L2E4B8,NF2,Niagara Falls,-79.0737440684691,43.1061355746842
+,St. John's Lutheran Church,905-835-2511,Yes,Lutheran,3421 Concession One Road ,City of Port Colborne,L3K5V3,PC4,Port Colborne,-79.165075612596,42.8916612610218
+,Islamic Society of Niagara Peninsula,905-295-4845,Yes,Muslim,6768 Lyons Creek Road ,City of Niagara Falls,L2E6S5,NF4,Niagara Falls,-79.1066920581084,43.0325802155422
+,Apostolic Lighthouse UPC,905-788-3943,Yes,Pen,610 Ontario Road ,City of Welland,L3B5C8,WD5,Welland,-79.2424831412606,42.9743949815528
+,St. John's Lutheran Church,905-382-3516,Yes,Lutheran,3837 Netherby Road ,Town of Fort Erie,L0S1N0,FE1,Fort Erie,-79.0598871785433,42.9633919581784
+,Bethel United Church,905-835-0374,Yes,United,1742 Third Concession Road ,City of Port Colborne,L3K5V5,PC4,Port Colborne,-79.1993884967153,42.9290223617811
+,Queenston United Church,Not Available,No,United,14419 Niagara River Parkway ,Town of Niagara-on-the-Lake,L2E6T2,NOTL2,Niagara-on-the-Lake,-79.0569989624269,43.1646350931082
+,Open Bible Faith Fellowship,905-934-1171,No,Canadian Fellowship of Churches and Ministries,310 Scott Street ,City of St. Catharines,L2N1J5,ST12,St. Catharines,-79.2344564253594,43.1857327116189
+,St. Mark's Anglican Church,905-468-3123,Yes,Anglican,39-41 Byron Street ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.0678476217099,43.2555007980428
+,St. Andrew's United Church,905-356-1624,Yes,United,5645 Morrison Street ,City of Niagara Falls,L2E3A3,NF2,Niagara Falls,-79.0889059512697,43.1047906220335
+,St. Augustine's Church,905-734-9912,Yes,Roman Catholic,295 Saint Augustine Avenue ,City of Welland,L3C2L2,WD6,Welland,-79.2654932182428,42.9701131975726
+,Southridge Community Church,905-682-9901,Yes,Mennonite Brethren,201 Glenridge Avenue ,City of St. Catharines,L2T3J6,ST6,St. Catharines,-79.2385022735663,43.142822717411
+,Niagara Celebration Church,905-646-0970,Yes,Christian,310 Scott Street ,City of St. Catharines,L2N1J5,ST12,St. Catharines,-79.2344564253594,43.1857327116189
+,Niagara Community Church School,905-357-9519,Yes,Charismatic,9527 Mcleod Road ,City of Niagara Falls,L2E6S5,NF6,Niagara Falls,-79.158893096285,43.0698031360385
+,Forestview Community Church,905-945-9529,Yes,Protestant,132 Lake Street ,Town of Grimsby,L3M2Z9,GR5,Grimsby,-79.5413818606781,43.1966335851299
+,Seventh-Day Adventist Church,905-646-4490,Yes,Seventh-Day Adventist,302 Scott Street ,City of St. Catharines,L2N1J3,ST12,St. Catharines,-79.2362338971285,43.186151832167
+,St. George's Catholic Church,905-894-2853,Yes,Roman Catholic,56 Ridgeway Road ,Town of Fort Erie,L0S1B0,FE2,Fort Erie,-79.0585229702504,42.8740849604929
+,Trinity United Church Hall,905-563-4943,Yes,United,4287 William Street ,Town of Lincoln,L0R1B0,LN2,Lincoln,-79.4785031000366,43.1659344869161
+,Stamford Presbyterian Church,905-356-2750,Yes,Presbyterian,3073 Saint Paul Avenue ,City of Niagara Falls,L2J2L8,NF1,Niagara Falls,-79.1006987603383,43.1276055976337
+,St. Alfred's Roman Catholic Church,905-934-9703,Yes,Roman Catholic,270-278 Vine Street ,City of St. Catharines,L2M4T3,ST12,St. Catharines,-79.2299390206935,43.179410851709
+,St. Casimirs Parish,905-735-7477,Yes,Polish National Catholic,41 Grove Street ,City of Welland,L3B4B3,WD3,Welland,-79.2449831859847,42.9907084364945
+,River Crossings Community Church,905-382-1347,Yes,Missionary,13839 Sodom Road ,City of Niagara Falls,L2E6S6,NF4,Niagara Falls,-79.0581301960337,42.9808300657681
+,Saint Paul's - Chippawa United Church,905-295-4913,No,United,3615 Gunning Drive ,City of Niagara Falls,L2G6L3,NF4,Niagara Falls,-79.0476199577233,43.055370991977
+,St. John's Anglican Church,905-935-6021,Yes,Anglican,80 Main Street ,City of St. Catharines,L2N4V2,ST2,St. Catharines,-79.2717126633682,43.199849043508
+,St. Ann's Community Church,905-957-7436,Yes,Mennonite Brethren,5425 Twenty Mile Road ,Township of West Lincoln,L0R1Y0,WL1,West Lincoln,-79.4954358034165,43.084316562824
+,St. Patrick's,905-227-2358,Yes,Roman Catholic,31 Chestnut Street East,City of St. Catharines,L2T1G8,ST8,St. Catharines,-79.2121904687346,43.1398045758692
+,St. Kevin's Parish,905-735-5885,Yes,Roman Catholic,307 Niagara Street ,City of Welland,L3C1K5,WD8,Welland,-79.2532111915999,42.9995896054279
+,Church of Christ Fenwick,905-892-5661,Yes,Church of Christ,765 Welland Road ,Town of Pelham,L0S1C0,PE4,Pelham,-79.3586795776435,43.0246764771673
+,Smithville Presbyterian Church,905-957-2297,Yes,Presbyterian,143 Saint Catharines Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.544128315826,43.0974430693155
+,Greek Orthodox Church of St. Catharines and District,905-685-3028,Yes,Greek Orthodox,124 Queenston Street ,City of St. Catharines,L2R2Z7,ST9,St. Catharines,-79.2322397587466,43.1631916375925
+,Winger Church of Christ (Disciples),905-899-1373,Yes,Disciples of Church,43238 Highway 3  ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.4430874668531,42.9434782029542
+,Christian Science - First Church,905-684-1853,Yes,Christian Science,178 Geneva Street ,City of St. Catharines,L2R4P3,ST9,St. Catharines,-79.240187286381,43.1711841655542
+,International Buddhist Zen Temple,905-358-8044,Yes,Buddhism,5686 Lewis Avenue ,City of Niagara Falls,L2G3S1,NF3,Niagara Falls,-79.0797418562684,43.0931759632074
+,Windmill Point Church of Christ,289-213-5783,Yes,Christian,560 Stone Mill Road ,Town of Fort Erie,L0S1N0,FE3,Fort Erie,-78.9994999835815,42.8905954781879
+,New Life Fellowship,905-641-9922,Yes,Gospel,60 Saint Paul Street West,City of St. Catharines,L2S2C5,ST4,St. Catharines,-79.2508667673421,43.1488952942592
+,Islamic Society of St. Catharines,905-641-8007,Yes,Muslim,117 Geneva Street ,City of St. Catharines,L2R4N3,ST11,St. Catharines,-79.2406221707835,43.1663991588015
+,Holy Ghost Church,905-732-5945,Yes,Greek Catholic,77 Golden Boulevard West,City of Welland,L3B1H5,WD2,Welland,-79.2303616747351,42.9884358747705
+,Glenridge Bible Church,905-937-1326,Yes,Non-Denominational,1 Lakeshore Road ,City of St. Catharines,L2R3M5,ST18,St. Catharines,-79.2595924796169,43.1978868635736
+,Welland Brethren in Christ Church,905-734-7250,Yes,Brethren in Christ,48-50 Lincoln Street ,City of Welland,L3C5J1,WD7,Welland,-79.2630926654847,42.9843200909179
+,St. Matthew's Lutheran Church,905-957-3071,Yes,Lutheran,6441 Townline Road ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5523283399976,43.0916009286758
+,First Presbyterian Church North Pelham,905-892-4716,Yes,Presbyterian,602 Metler Road ,Town of Pelham,L0S1C0,PE1,Pelham,-79.3412653432382,43.0609151203914
+,Convenant Christian Reformed,905-937-3942,Yes,Christian Reformed,276 Parnell Road ,City of St. Catharines,L2M7W7,ST15,St. Catharines,-79.2137817893324,43.2127172068043
+,Jehovah's Witnesses Kingdom Hall,905-646-0966,Yes,Jehovah's Witnesses,503 Linwell Road ,City of St. Catharines,L2M2R2,ST15,St. Catharines,-79.2122181719001,43.2053322347697
+,Holy Trinity Church,905-295-3212,Yes,Anglican,7820 Portage Road ,City of Niagara Falls,L2G6T8,NF4,Niagara Falls,-79.0573339050337,43.0625479482441
+,Immanuel Baptist Church,905-646-0886,Yes,Baptist,71 Parnell Road ,City of St. Catharines,L2M3V4,ST18,St. Catharines,-79.2322426021065,43.2073056601569
+,Wellandport Orthodox Reformed Church,905-386-0156,Yes,Reformed,74094 Wellandport Road ,Township of Wainfleet,L0R2J0,WF1,Wainfleet,-79.4806821084544,42.9977699684181
+,Concordia Lutheran Church,905-892-8877,Yes,Lutheran,105 Quaker Road ,Town of Pelham,L0S1E0,PE3,Pelham,-79.2859343330092,43.0225538586318
+,Thorold South Gospel Chapel,905-227-0310,Yes,Salvation Army,319 Davis Street ,City of Thorold,L2T1X8,TH1,Thorold,-79.193535378415,43.0995728257245
+,King Street Regular Baptist Church,Not Available,No,Baptist,613 King Street ,City of Port Colborne,L3K4H5,PC2,Port Colborne,-79.2517293522548,42.8941396724769
+,Carleton United Church,905-646-0857,Yes,United,527 Carlton Street ,City of St. Catharines,L2M4X6,ST14,St. Catharines,-79.2154564277918,43.1849847339182
+,Falls View Brethren in Christ Church,905-374-2614,Yes,Brethren in Christ,7189 Drummond Road ,City of Niagara Falls,L2G4P7,NF3,Niagara Falls,-79.0974325321778,43.0712527702423
+,First Baptist Church,905-227-1922,Yes,Baptist,42 Ormond Street South,City of Thorold,L2V2K5,TH2,Thorold,-79.1985553283692,43.1217848093873
+,St. Barnabas Church,905-684-6421,Yes,Anglican,31 Queenston Street ,City of St. Catharines,L2R2Y8,ST9,St. Catharines,-79.238014331263,43.1630410278649
+,Grassie Gospel Church,905-643-2624,Yes,Gospel,496 Alway Road ,Town of Grimsby,L0R1M0,GR1,Grimsby,-79.6253763413407,43.1582296005528
+,Wesley United Church,905-735-5912,Yes,United,244 First Avenue ,City of Welland,L3C1Y8,WD9,Welland,-79.2592080257606,43.0058007231958
+,St. John's Anglican Church,905-894-3350,Yes,Anglican,2251 Ridgemount Road ,Town of Fort Erie,L0S1N0,FE1,Fort Erie,-79.0045937147667,42.9366078923725
+,Resurrection Lutheran Church LCC,905-688-1226,Yes,Lutheran,226 Lockhart Drive ,City of St. Catharines,L2T3P8,ST7,St. Catharines,-79.2390867463516,43.1274680163104
+,St. John's Anglican Church,905-562-7238,Yes,Anglican,3694 Mckenzie Drive ,Town of Lincoln,L2R6P9,LN4,Lincoln,-79.3662265251616,43.1426083367
+,St. Andrews Presbyterian,905-563-0558,Yes,Presbyterian,4260 Queen Street ,Town of Lincoln,L0R1B0,LN2,Lincoln,-79.4773197016525,43.1645084547166
+,St. James Anglican Church,905-682-8853,Yes,Anglican,405 Merritt Street ,City of St. Catharines,L2P1P5,ST8,St. Catharines,-79.2144391523691,43.1430739366785
+,St. Alban's,905-563-4518,Yes,Anglican,4341 Ontario Street ,Town of Lincoln,L0R1B0,LN1,Lincoln,-79.4760684144561,43.1680287247845
+,Christian Science Church,905-356-6636,No,Christian Science,4940 Jepson Street ,City of Niagara Falls,L2E4B7,NF2,Niagara Falls,-79.0755467742853,43.1001790131473
+,The Salvation Army,905-935-4804,Yes,Salvation Army,400 Niagara Street ,City of St. Catharines,L2M7N5,ST13,St. Catharines,-79.2248455008807,43.1871481779831
+,Smithville United Church,905-957-4404,No,United,116 West Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5479438360451,43.099791179816
+,Scott Street Mennonite Brethren Church,905-937-6900,Yes,Mennonite Brethren,339 Scott Street ,City of St. Catharines,L2N1J7,ST16,St. Catharines,-79.2323272338864,43.188356157267
+,Trinity Orthodox Reformed Church,905-935-8322,Yes,Reformed,99 Pine Street South,City of Thorold,L2V3L9,TH2,Thorold,-79.2031931898626,43.1183915039849
+,Pelham Evangelical Friends,905-892-6881,Yes,Friends,940 Haist Street ,Town of Pelham,L0S1E4,PE3,Pelham,-79.2959988237899,43.0195504550379
+,Niagara United Mennonite Church,905-468-3313,Yes,Mennonite Brethren,1775 Niagara Stone Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.1093850940405,43.2312625346291
+,Central Gospel Temple,905-937-5610,Yes,Pentecostal Assemblies,240 Scott Street ,City of St. Catharines,L2R7R7,ST12,St. Catharines,-79.2427326060774,43.1835943131275
+,All Saints Anglican Church Ridgeway,905-894-3350,Yes,Anglican,149 South Mill Street ,Town of Fort Erie,L0S1N0,FE3,Fort Erie,-79.0540287119727,42.8788477903789
+,Church of Jesus Christ of Latter Day Saints,905-892-6595,Yes,Church of Jesus Christ,904 South Pelham Road ,City of Welland,L3C3E1,WD11,Welland,-79.284856188371,43.0171673001804
+,Boyle Brethren in Christ Church,905-386-0044,No,Brethren in Christ,1306 Boyle Road ,Township of West Lincoln,L0R1Y0,WL3,West Lincoln,-79.4124130813342,43.030935871759
+,Trinity United Hall,905-945-2249,Yes,United,100 Main Street West,Town of Grimsby,L3M1R7,GR3,Grimsby,-79.5654944901336,43.1946414604305
+,St. Saviour's Anglican Church,905-262-5111,Yes,Anglican,12 Princess Street ,Town of Niagara-on-the-Lake,L0S1L0,NOTL2,Niagara-on-the-Lake,-79.0536900836683,43.1659005838102
+,The Fathers House,905-641-0102,Yes,Christian,42 Fox Trail Drive ,City of St. Catharines,L2N5W6,ST4,St. Catharines,-79.2713025803719,43.1360649229784
+,Victory Christian Centre,905-894-3300,Yes,Non-Denominational,385 Derby Road ,Town of Fort Erie,L0S1J0,FE2,Fort Erie,-79.061540250174,42.8649726412744
+,South Minister United Church,905-354-2125,No,United,6801 Hagar Avenue ,City of Niagara Falls,L2G5M5,NF3,Niagara Falls,-79.1093073363632,43.076701977335
+,Ukrainian Orthodox Church of St. George,905-937-3636,Yes,Ukrainian Orthodox,8 Augusta Avenue ,City of St. Catharines,L2M5R2,ST13,St. Catharines,-79.2239477031709,43.176554458331
+,First Mennonite Church,905-562-5944,Yes,Mennonite Brethren,3571 King Street ,Town of Lincoln,L0R2C0,LN3,Lincoln,-79.4024996161581,43.1544210632805
+,Star of the Sea Church,905-934-1170,Yes,Roman Catholic,34 Elgin Street ,City of St. Catharines,L2N5G5,ST2,St. Catharines,-79.2730094167932,43.1997464670643
+,St. Joseph's Roman CatholicChurch,905-382-3826,Yes,Roman Catholic,3718 Netherby Road ,Town of Fort Erie,L0S1S0,FE1,Fort Erie,-79.0554216806802,42.9640700812199
+,St. David's Anglican Church,905-734-4627,Yes,Anglican,369 Thorold Road ,City of Welland,L3C3W4,WD12,Welland,-79.2737016451932,43.0034560764418
+,Church of Christ,905-563-7655,Yes,Church of Christ,4900 John Street ,Town of Lincoln,L0R1B6,LN1,Lincoln,-79.4710130887965,43.1709469325446
+,Emmanuel United Church,905-386-6238,No,United,5135 Canborough Road ,Township of West Lincoln,L0R2J0,WL3,West Lincoln,-79.4785018581988,43.0049262677231
+,Smithville Church of Christ,905-957-6039,No,Church of Christ,246 Station Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5455847190445,43.1010797141263
+,First Grantham United Church,905-935-5369,Yes,United,415 Linwell Road ,City of St. Catharines,L2M2P3,ST16,St. Catharines,-79.2240752892223,43.2007941096701
+,Vineland United Church,905-562-4515,Yes,United,4402 Victoria Avenue ,Town of Lincoln,L0R2E0,LN3,Lincoln,-79.3946817321554,43.1738304799978
+,St. John Ukrainian Catholic Church,905-937-3393,Yes,Ukrainian Catholic,91 Lakeshore Road ,City of St. Catharines,L2N2T6,ST18,St. Catharines,-79.2455010617326,43.2035813391351
+,Riverside Community Church,Not Available,No,Brethren in Christ,1587 College Road ,Town of Fort Erie,L2A5M4,FE1,Fort Erie,-78.9791077489338,42.956064277816
+,Faith Evangelical Lutheran Church,905-934-2434,Yes,Lutheran,27-31 Agar Drive ,City of St. Catharines,L2R6Z4,ST15,St. Catharines,-79.2249502657319,43.1924898569807
+,Our Saviour Lutheran Church,905-354-8881,Yes,Lutheran,7081 Mcleod Road ,City of Niagara Falls,L2G3H1,NF3,Niagara Falls,-79.1134384177892,43.0707612039169
+,St. John's Anglican Church,905-227-5431,Yes,Anglican,24 Clairmont Street ,City of Thorold,L2V2C1,TH2,Thorold,-79.1986599056106,43.1238240886897
+,Stamford United Church,905-354-8841,Yes,United,3855 Saint Peter Avenue ,City of Niagara Falls,L2J2N7,NF1,Niagara Falls,-79.1017423980761,43.1173157202359
+,Church of the Transfiguration,905-684-0722,Yes,Anglican,320 Glenridge Avenue ,City of St. Catharines,L2T3K7,ST7,St. Catharines,-79.2397688174545,43.1340004197094
+,St. George's Chapel,905-357-0266,Yes,Anglican-Independent,7701 Lundy's Lane ,City of Niagara Falls,L2H1H3,NF5,Niagara Falls,-79.1256535325341,43.0892311598167
+,Holy Rosary Church,905-227-3178,Yes,Roman Catholic,21 Queen Street South,City of Thorold,L2V3M7,TH2,Thorold,-79.2055827145201,43.1232960006892
+,Scottlea Gospel Chapel,905-646-0761,Yes,Gospel,500 Scott Street ,City of St. Catharines,L2T2Z5,ST13,St. Catharines,-79.2166743220432,43.19285914666
+,Grace Evangelical Lutheran Church LCC,905-646-0113,Yes,Lutheran,213 Linwell Road ,City of St. Catharines,L2N1S1,ST17,St. Catharines,-79.2453818312581,43.193307450162
+,Ukrainian Greek Orthodox Church Hall,905-735-9789,Yes,Ukrainian Greek Orthodox,105 First Street ,City of Welland,L3B4S1,WD4,Welland,-79.2456303481605,42.9826737892891
+,First Baptist Church,905-734-3312,Yes,Baptist,165 Sydney Place ,City of Welland,L3C2A7,WD8,Welland,-79.2610952676636,42.9934836390278
+,Full Gospel Temple,905-646-0364,Yes,Pentecostal Assemblies,376 Carlton Street ,City of St. Catharines,L2M4W6,ST13,St. Catharines,-79.2283233509595,43.1792869939618
+,St. Andrews Knox Presbyterian Church,905-871-3450,Yes,Presbyterian,203 Highland Avenue ,Town of Fort Erie,L2A2X8,FE4,Fort Erie,-78.9193975951383,42.9337949260386
+,Our Lady of Perpetual Help Church,905-937-4230,Yes,Roman Catholic,5 Oblate Street ,City of St. Catharines,L2M5C5,ST13,St. Catharines,-79.2242382713901,43.1790805978324
+,St. Alexanders Church,905-892-3090,Yes,Roman Catholic,28 Highway 20  ,Town of Pelham,L3C7C1,PE2,Pelham,-79.2810568224643,43.0465173663581
+,Forks Road East United Church,905-899-2371,Yes,United,41786 Forks Road ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.3679644274029,42.9449181825631
+,Cathedral of St. Luke,905-354-2329,Yes,Christ Catholic,5165 Palmer Avenue ,City of Niagara Falls,L2E3T9,NF2,Niagara Falls,-79.0679152461732,43.0995866318753
+,St. Francis Church,905-295-6784,No,Christ Catholic,8307 Willoughby Drive ,City of Niagara Falls,L2E3T9,NF4,Niagara Falls,-79.0490663439687,43.0573064607311
+,Redeemer Bible Church,905-356-6888,Yes,Associated Gospel Church,3017 Montrose Road ,City of Niagara Falls,L2E6V6,NF6,Niagara Falls,-79.1278432347376,43.1293321161805
+,Jubilee Fellowship CRC,905-687-3372,Yes,Christian Reformed,20 Third Avenue Louth ,City of St. Catharines,L2R7R8,ST3,St. Catharines,-79.2788862314042,43.1636590296158
+,Our Lady of Hungary,905-734-3772,Yes,Roman Catholic,337 Hellems Avenue ,City of Welland,L3B3C2,WD4,Welland,-79.2469759716265,42.9851167066634
+,Jehovah's Witnesses Kingdom Hall,905-374-3866,Yes,Jehovah's Witnesses,6457 Montrose Road ,City of Niagara Falls,L2H1M1,NF5,Niagara Falls,-79.1238603779769,43.0812846461028
+,Downtown Gospel Centre,905-988-9888,Yes,Christian,132 King Street ,City of St. Catharines,L2M7X2,ST10,St. Catharines,-79.2447910384996,43.1596300287926
+,Grace United Brethren Church,905-894-3462,Yes,United Brethren,895 Empire Road ,City of Port Colborne,L0S1R0,PC4,Port Colborne,-79.1341752679087,42.8881641459147
+,Bismark United Church,905-386-6590,Yes,United,5523 Bismark Road ,Township of West Lincoln,L0R2A0,WL3,West Lincoln,-79.5041562993649,43.0410974292683
+,Morrison Street United Church,905-354-9452,Yes,United,4531 Morrison Street ,City of Niagara Falls,L2E2B6,NF2,Niagara Falls,-79.0680956560421,43.1048746121411
+,St. George's Ukranian Greek Orthodox Church,905-945-3770,Yes,Greek Orthodox,19 Ontario Street ,Town of Grimsby,L3M3G8,GR4,Grimsby,-79.5596878928005,43.1944175846107
+,Calvary Gospel Church,905-735-1293,Yes,Associated Gospel Church,735 South Pelham Road ,City of Welland,L3C3C9,WD11,Welland,-79.2864757582398,43.0104348270268
+,Rockway Canadian Reformed Church,905-563-9933,Yes,Reformed Church in Canada,3981 Spring Creek Road ,Town of Lincoln,L0R1S0,LN4,Lincoln,-79.420715264648,43.1048915057142
+,Emmanuel Lutheran,905-563-4362,Yes,Lutheran,5001 George Street ,Town of Lincoln,L0R1B0,LN2,Lincoln,-79.476557484794,43.158420228572
+,Church of the Resurrection,905-684-2307,Yes,Congregational Christian,124 Queenston Street ,City of St. Catharines,L2R2Z7,ST9,St. Catharines,-79.2322397587466,43.1631916375925
+,Trinity Lutheran Church,905-871-2883,Yes,Lutheran,171 Bertie Street ,Town of Fort Erie,L2A1Y9,FE4,Fort Erie,-78.9198474314,42.9132116221525
+,First Lutheran Church,905-835-8111,Yes,Lutheran,688 Elm Street ,City of Port Colborne,L3K4R1,PC1,Port Colborne,-79.2554247258218,42.8965477908824
+,Fountain of Life Fellowship,905-734-3645,Yes,Foursquare,120 Courtney Crescent ,City of Welland,L3C7H9,WD9,Welland,-79.241453510912,43.0251887865181
+,Grace Gospel Church,905-354-2811,Yes,Associated Gospel Church,5855 Valley Way ,City of Niagara Falls,L2E1X9,NF2,Niagara Falls,-79.0915364985909,43.098513083213
+,Vineland Missionary,905-562-7141,Yes,Missionary,3874 Victoria Avenue ,Town of Lincoln,L0R2C0,LN4,Lincoln,-79.393529179086,43.1497720113379
+,Silverdale United Church,905-957-7538,No,United,4595 Sixteen Road ,Township of West Lincoln,L0R1Y0,WL3,West Lincoln,-79.4539337956074,43.0759791905526
+,Lakeshore Baptist Church,905-935-5868,Yes,Baptist,63 Lakeshore Road ,City of St. Catharines,L2N2T3,ST18,St. Catharines,-79.2481763036441,43.2021200723127
+,Freedom Point Church,905-682-3830,Yes,Brethren Assemblies,2 White Street ,City of St. Catharines,L2N4X7,ST16,St. Catharines,-79.2358139263784,43.1876758350486
+,Church of Jesus Christ of Latter Day Saints,905-262-4672,Yes,Church of Jesus Christ,785 Warner Road ,Town of Niagara-on-the-Lake,L0S1T0,NOTL4,Niagara-on-the-Lake,-79.1055796841236,43.1562609680401
+,Church of Christ,905-935-9581,Yes,Church of Christ,439 Ontario Street ,City of St. Catharines,L2N4M9,ST2,St. Catharines,-79.2656467695454,43.1856412328319
+,Canadian Reformed Church of Lincoln,905-563-4882,Yes,Canadian Reformed Church,4628 John Street ,Town of Lincoln,L3M4E7,LN1,Lincoln,-79.4574531282457,43.1710999113961
+,Maranatha Reformed Church,905-899-1336,Yes,Reformed,42817 Highway 3  ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.421003865788,42.9430176468536
+,Knox Presbyterian Church,905-735-3050,Yes,Presbyterian,335 Fitch Street ,City of Welland,L3C4W7,WD12,Welland,-79.2722291227261,42.9941057789093
+,Pilgrim Holiness Church,905-732-0226,Yes,Pilgrim Holiness,119 Division Street ,City of Welland,L3B3Z8,WD3,Welland,-79.247138166511,42.9910056334616
+,St. Andrew's Presbyterian,905-734-4831,Yes,Presbyterian,29 Bald Street ,City of Welland,L3C5B7,WD3,Welland,-79.2530093114895,42.9904617447505
+,Community of Christ,905-354-1640,Yes,Reorganized Church Jesus Christ,4865 Saint Lawrence Avenue ,City of Niagara Falls,L3K3R7,NF2,Niagara Falls,-79.0706253559216,43.1036754327095
+,Central United Church,905-735-2333,Yes,United,12 Young Street ,City of Welland,L3B4C4,WD3,Welland,-79.2505166872611,42.98973446976
+,New Hope Church Niagara,905-562-3367,Yes,Christian,3872 Nineteenth Street ,Town of Lincoln,L0R1S0,LN3,Lincoln,-79.3694604401047,43.150807286031
+,Mountainview Christian Reformed Church,905-945-0004,Yes,Christian Reformed,290 Main Street East,Town of Grimsby,L3M1P8,GR6,Grimsby,-79.5220133507067,43.1838542985917
+,Elm Street United Church,905-641-0950,Yes,United,11 Elm Lane ,City of St. Catharines,L2P2B6,ST8,St. Catharines,-79.2158269156595,43.1425999976
+,Church of Christ,905-356-3412,Yes,Church of Christ,3879 Dorchester Road ,City of Niagara Falls,L2J1S8,NF1,Niagara Falls,-79.1124627558934,43.11646603422
+,Christian Life Centre United Pentecostal Church,905-945-1676,Yes,Pentecostal,265 Main Street East,Town of Grimsby,L3M1P7,GR6,Grimsby,-79.5268430834388,43.1854632683993
+,Portal Village Bible Chapel,905-835-5656,Yes,Gospel,309 Elgin Street ,City of Port Colborne,L3K6A2,PC1,Port Colborne,-79.2626292455205,42.8887880473757
+,Welland Avenue United Church,905-685-7793,Yes,United,79 Welland Avenue ,City of St. Catharines,L2R5T2,ST11,St. Catharines,-79.2491787774874,43.1628154278249
+,St. Vincent de Paul,905-468-7272,Yes,Roman Catholic,73 Picton Street ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.067732526667,43.2538195836117
+,Paroisse Immaculee Conception,905-934-4266,Yes,Roman Catholic,99 Garnet Street ,City of St. Catharines,L2M5G3,ST13,St. Catharines,-79.2220843143694,43.1797475440665
+,St. Patrick's Church,905-834-6426,Yes,Roman Catholic,123 King Street ,City of Port Colborne,L2R6Y3,PC1,Port Colborne,-79.2507431586615,42.8834980965972
+,Bethany United Mennonite Church,905-468-3505,Yes,Mennonite Brethren,572 East and West Line ,Town of Niagara-on-the-Lake,L0S1T0,NOTL3,Niagara-on-the-Lake,-79.125921670856,43.2339414978184
+,St. Archangel Michael Serbian Orthodox Church,905-358-7363,Yes,Orthodox,4992 Huron Street ,City of Niagara Falls,L2E2J5,NF2,Niagara Falls,-79.0767453876085,43.1055722973316
+,Kirk-on-the-Hill Presbyterian Church,905-892-3729,Yes,Presbyterian,1344 Haist Street ,Town of Pelham,L0S1E0,PE2,Pelham,-79.2953543572868,43.0383914556383
+,St. James Anglican Church,905-834-3184,Yes,Anglican,55 Charlotte Street ,City of Port Colborne,L3K3C9,PC1,Port Colborne,-79.2516657193967,42.8853990642982
+,Westview Christian Fellowship,905-687-4848,Yes,Mennonite Brethren,112 Oakdale Avenue ,City of St. Catharines,L2R7P4,ST8,St. Catharines,-79.2190985932766,43.1458257519075
+,Jehovah's Witness Kingdom Hall,905-871-5262,Yes,Jehovah's Witnesses,530 Walden Boulevard ,Town of Fort Erie,L0S1B0,FE6,Fort Erie,-78.9338336360494,42.9062677455668
+,Wellandport Riverside Christian Reformed Church,905-386-6282,Yes,Christian Reformed,74094 Wellandport Road ,Township of Wainfleet,L0R2J0,WF1,Wainfleet,-79.4807991261988,42.9977174387672
+,Church of Christ,905-562-4739,Yes,Church of Christ,2861 King Street ,Town of Lincoln,L0R1S0,LN3,Lincoln,-79.3668600074707,43.1449476252465
+,Faith Reformed Church,905-382-2914,Yes,Reformed,3605 Black Creek Road ,Town of Fort Erie,L0S1S0,FE1,Fort Erie,-79.0263415860199,42.9730206813012
+,St. Luke's Lutheran Church,905-894-3799,Yes,Lutheran,245 Prospect Point Road North,Town of Fort Erie,L0S1N0,FE3,Fort Erie,-79.04919318627,42.8814930037795
+,Maranatha Christian Reformed Church,905-934-0631,Yes,Christian Reformed,303 Scott Street ,City of St. Catharines,L2N1J4,ST16,St. Catharines,-79.236796257525,43.1867895945939
+,Lakemount Worship Centre,905-945-8888,Yes,Pentecostal Assemblies,54 North Service Road ,Town of Grimsby,L3M1Y8,GR4,Grimsby,-79.5700346892607,43.2016583485108
+,Holy Trinity Anglican Church,905-892-6011,Yes,Anglican,1557 Pelham Street ,Town of Pelham,L0S1E0,PE2,Pelham,-79.2848433587832,43.0479676127497
+,Canada Toronto West,905-345-1000,Yes,Church of Jesus Christ,68 Rolls Avenue ,City of St. Catharines,L2M3B7,ST12,St. Catharines,-79.2324481985248,43.1774760607591
+,St. George's Anglican Church,905-682-9232,Yes,Anglican,83 Church Street ,City of St. Catharines,L2R3C7,ST10,St. Catharines,-79.2463065174604,43.1613967727762
+,B'Nai Israel Synagogue,905-685-6767,Yes,Traditional Judaism,190 Church Street ,City of St. Catharines,L2R3E9,ST9,St. Catharines,-79.237317769951,43.1634730223802
+,Christ Community Church,905-732-6010,Yes,Reformed Church of America,224 Division Street ,City of Welland,L3B4A2,WD3,Welland,-79.2439614274672,42.9921622629645
+,Gateway Christian Fellowship,905-938-8000,Yes,Mennonite Brethren,33 Lakeshore Road ,City of St. Catharines,L2N4H5,ST17,St. Catharines,-79.2541006228052,43.1998678331337
+,Central United Church,905-834-4533,Yes,United,30 Delhi Street ,City of Port Colborne,L3K3K6,PC2,Port Colborne,-79.2527291384399,42.8893724579268
+,St. Davids - Queenston United Church,905-262-5242,Yes,United,1453 York Road ,Town of Niagara-on-the-Lake,L0S1P0,NOTL2,Niagara-on-the-Lake,-79.0994857986025,43.1581093055387
+,Rice Road Free Community Church,905-735-5898,No,Free Methodist,305 Rice Road ,City of Welland,L3C2V9,WD11,Welland,-79.2711595996581,43.017177022669
+,St. Anthoine De Padoue Roman Catholic Church,905-358-5549,Yes,Roman Catholic,4570 Portage Road ,City of Niagara Falls,L2R6Y3,NF1,Niagara Falls,-79.0946804854498,43.1072822340812
+,Church of Christ,905-945-3058,Yes,Church of Christ,63 Casablanca Boulevard ,Town of Grimsby,L3M2T9,GR2,Grimsby,-79.5955824335703,43.2023077507586
+,St. Paul Street United Church,905-682-8328,Yes,United,366 Saint Paul Street ,City of St. Catharines,L2R3N2,ST10,St. Catharines,-79.2410164715887,43.1602629740183
+,St. Theresa's Church,905-899-1222,Yes,Roman Catholic,12394 Lakeshore Road ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.3958571938441,42.8714095340548
+,St. Helen's Roman Catholic,905-562-0329,Yes,Roman Catholic,4156 Maple Grove Road ,Town of Lincoln,L0R2C0,LN1,Lincoln,-79.4239640090319,43.1611258358937
+,Jehovah's Witnesses Kingdom Hall,905-374-2684,Yes,Jehovah's Witnesses,5993 Stanley Avenue ,City of Niagara Falls,L2G3Y2,NF3,Niagara Falls,-79.0852455685218,43.0878974146929
+,First Presbyterian Church,905-834-4288,Yes,Presbyterian,176 Elm Street ,City of Port Colborne,L3K4N6,PC1,Port Colborne,-79.2554665401504,42.8846193739722
+,Fairview Mennonite Brethren Church,905-934-3398,Yes,Mennonite Brethren,455 Geneva Street ,City of St. Catharines,L2N2H2,ST17,St. Catharines,-79.2423265695692,43.1894827485998
+,Calvary Church,905-935-3683,Yes,Associated Gospel Church,89 Scott Street ,City of St. Catharines,L2N1G8,ST17,St. Catharines,-79.2570748513686,43.1799474095241
+,Wainfleet Congregational Christian Church,905-834-5477,Yes,Congregational Christian,10611 Highway 3  ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.3055342299243,42.891006693945
+,First Baptist Church,905-354-7836,Yes,Baptist,4519 Pettit Avenue ,City of Niagara Falls,L2E6K9,NF1,Niagara Falls,-79.1064875329481,43.1076829272311
+,St. Jean de Brebeuf Church,905-835-0202,Yes,Roman Catholic,300 Killaly Street East,City of Port Colborne,L2R6Y3,PC2,Port Colborne,-79.2374418002253,42.8921237622346
+,Niagara Gospel Centre,905-937-2302,Yes,Pentecostal Holiness ,60 Facer Street ,City of St. Catharines,L2M5J1,ST13,St. Catharines,-79.2244246053008,43.1758840466954
+,Garden City Baptist Church,905-937-1004,Yes,Baptist,265 Linwell Road ,City of St. Catharines,L2N1S4,ST16,St. Catharines,-79.2407945558828,43.1946833698632
+,Korean Presbyterian Church,905-354-0191,Yes,Presbyterian,4898 Kitchener Street ,City of Niagara Falls,L2G1A7,NF2,Niagara Falls,-79.0743735813086,43.0953913390746
+,Fort Erie Alliance Church,905-871-1001,Yes,Christian & Missionary,118 Bertie Street ,Town of Fort Erie,L2A1Y4,FE4,Fort Erie,-78.9170112525435,42.9127206421366
+,St. Michael's Church,905-871-9187,Yes,Roman Catholic,310 Central Avenue ,Town of Fort Erie,L2A3T3,FE4,Fort Erie,-78.9182993456004,42.919103501911
+,St. Thomas Aquinas Roman Catholic Church,905-687-6971,Yes,Anglican,316 Queenston Street ,City of St. Catharines,L2P2X4,ST9,St. Catharines,-79.2177271881928,43.1592483283105
+,Niagara Korean Presbyterian Church,905-685-7455,Yes,Presbyterian,3585 Nineth Street ,Town of Lincoln,L2R6P7,LN4,Lincoln,-79.3164838732893,43.140067521598
+,St. Brendan the Navigator Anglican Church,905-835-8631,Yes,Anglican,480 Northland Avenue ,City of Port Colborne,L3K4B2,PC3,Port Colborne,-79.2628115174187,42.9065565733575
+,Ukrainian Evangelical Baptist Church,905-646-1955,Yes,Baptist,317 Niagara Street ,City of St. Catharines,L2M4V9,ST12,St. Catharines,-79.2274743071635,43.1805927321232
+,Drummond Hill Presbyterian,905-358-9624,Yes,Presbyterian,6136 Lundy's Lane ,City of Niagara Falls,L2G1T1,NF3,Niagara Falls,-79.0961044223326,43.0891186910948
+,Church of God in Canada Cleveland Tenn,905-295-6959,Yes,Pentecostal,8652 Sodom Road ,City of Niagara Falls,L2G7B1,NF4,Niagara Falls,-79.0587140667576,43.0521701250837
+,St. Julia Church,905-684-5603,Yes,Roman Catholic,251 Glenridge Avenue ,City of St. Catharines,L2R4C2,ST6,St. Catharines,-79.2386977960732,43.1391491561975
+,West St. Andrew's Presbyterian Church,905-684-7765,Yes,Presbyterian,42 Pelham Road ,City of St. Catharines,L2S1R4,ST5,St. Catharines,-79.2511252184448,43.1443700140148
+,Trinity Lutheran Church,905-468-2611,Yes,Lutheran,2027 Niagara Stone Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.1006007575726,43.2386829881278
+,First Baptist Church,905-563-8448,Yes,Baptist,4264 Mountain Street ,Town of Lincoln,L0R1B0,LN2,Lincoln,-79.4765106859106,43.1643945618565
+,Christ Church  McNab,905-646-0209,Yes,Anglican,1294 Mcnab Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL3,Niagara-on-the-Lake,-79.1822870349985,43.2263587199423
+,St. Ann's Roman Catholic Church,905-358-9333,Yes,Roman Catholic,5740 Buchanan Avenue ,City of Niagara Falls,L2G3V3,NF3,Niagara Falls,-79.0834490818062,43.0913836286003
+,Jehovah's Witnesses Kingdom Hall,905-682-0854,Yes,Jehovah's Witnesses,134 Louth Street ,City of St. Catharines,L2T2M7,ST5,St. Catharines,-79.2592778733777,43.1392579407694
+,People's Memorial United Church,905-894-3500,Yes,United,366 Ridge Road North,Town of Fort Erie,L0S1S0,FE3,Fort Erie,-79.0517074005462,42.8847365275906
+,Fenwick United Church,905-892-3081,Yes,United,1050 Church Road ,Town of Pelham,L0S1C0,PE4,Pelham,-79.3627715029539,43.0237090499026
+,Christian Life Assembly,905-834-4313,Yes,Pentecostal Assemblies,484 Barrick Road ,City of Port Colborne,L3K4B7,PC3,Port Colborne,-79.2647207547898,42.9095874287948
+,New Testament Baptist Church,905-937-7881,Yes,Baptist,12-14 Dixie Road ,City of St. Catharines,L2N2A8,ST12,St. Catharines,-79.2362676000689,43.1794845016654
+,Christian Reformed Church,905-957-2116,No,Christian Reformed,6522 Townline Road ,Township of West Lincoln,L0R1Y0,WL1,West Lincoln,-79.5575512338945,43.0906363204964
+,Welland Gospel Hall,905-732-2021,Yes,Non-Denominational,405 Lyons Creek Road ,City of Welland,L3B5N4,WD1,Welland,-79.200026731786,42.9930024437851
+,Netherlands Reformed Congregation,905-935-0567,Yes,Netherlands Reformed,1142 Lakeshore Road West,City of St. Catharines,L0S1J0,ST1,St. Catharines,-79.3022797069168,43.1869755480804
+,Full Gospel Church,Not Available,No,Pentecostal Assemblies,10 Page Street ,City of Port Colborne,L3K5V7,PC2,Port Colborne,-79.242880765133,42.9026220052759
+,Christian Science - Reading Room,905-684-8033,Yes,Christian Science,20 Saint Paul Street ,City of St. Catharines,L2R3M2,ST10,St. Catharines,-79.245312583478,43.1555904796221
+,Fonthill United Church,905-892-6433,Yes,United,42 Church Hill ,Town of Pelham,L0S1E0,PE2,Pelham,-79.2910835427205,43.0434640705833
+,Free Methodist Church,905-894-2582,Yes,Free Methodist,209 Ridge Road North,Town of Fort Erie,L0S1N0,FE3,Fort Erie,-79.052247765554,42.8804833989712
+,St. Paul's Evangelical Lutheran Church,905-358-5421,No,Lutheran,5485 Victoria Avenue ,City of Niagara Falls,L2G3L3,NF2,Niagara Falls,-79.0732076771044,43.0950965081815
+,Bethel Pentecostal Assembly,905-871-4640,Yes,Pentecostal Assemblies,46 Bowden Street ,Town of Fort Erie,L2A3V1,FE4,Fort Erie,-78.9183900649003,42.926414767257
+,St. Peter and Paul Church,905-734-4824,Yes,Roman Catholic,300 Chaffey Street ,City of Welland,L3B2Y8,WD5,Welland,-79.2446463210193,42.9700363413387
+,Canadian Reformed Church of Smithville,905-957-3204,Yes,Canadian Reformed Church,330 Station Street ,Township of West Lincoln,L0R2A0,WL1,West Lincoln,-79.5433356920445,43.1051061922874
+,Brethren in Christ Church of Canada,905-871-6980,No,Brethren in Christ,2619 Niagara River Parkway ,Town of Fort Erie,L2A5M4,FE1,Fort Erie,-78.9769763770202,42.9560366817934
+,Orchard Creek Fellowship,905-227-1407,Yes,Brethren in Christ,2 Whyte Street South,City of Thorold,L2V2T1,TH2,Thorold,-79.2073329721808,43.1242148987684
+,Sherkston Brethren in Christ Church,905-894-0673,Yes,Brethren in Christ,5348 Sherkston Road ,Town of Fort Erie,L0S1R0,FE2,Fort Erie,-79.1129629579736,42.8823984342425
+,Harbour Fellowship Church,905-984-5500,Yes,Baptist,51 South Service Road ,City of St. Catharines,L2R6P9,ST3,St. Catharines,-79.2813851116106,43.1758665138663
+,Cham Shan Temple,905-371-2679,Yes,Buddhism,4303 River Road ,City of Niagara Falls,L2E3E8,NF2,Niagara Falls,-79.0614544299739,43.1109861161478
+,St. Andrew's United,905-935-7231,Yes,United,92 Main Street ,City of St. Catharines,L2N4V2,ST2,St. Catharines,-79.2723505006903,43.1994771408753
+,St. Stephen's Anglican,905-358-3111,No,Anglican,5205 Fourth Avenue ,City of Niagara Falls,L2E4P9,NF2,Niagara Falls,-79.0787147339027,43.0989496972935
+,St. Giles Presbyterian Church,905-934-1901,Yes,Presbyterian,205 Linwell Road ,City of St. Catharines,L2N1S1,ST17,St. Catharines,-79.2459877953248,43.1931246514212
+,Rosedale Baptist Church,905-735-0788,Yes,Baptist,11 Rosedale Place ,City of Welland,L3B1J2,WD4,Welland,-79.2300767743603,42.9831723926611
+,St. Joseph's Roman Catholic Church,905-945-2661,Yes,Roman Catholic,135 Livingston Avenue ,Town of Grimsby,L3M5J6,GR3,Grimsby,-79.5793234363785,43.1975812655786
+,St. Ann's Roman Catholic Church,905-892-6123,Yes,Roman Catholic,834 Canboro Road ,Town of Pelham,L0S1C0,PE4,Pelham,-79.3657637128855,43.023833796302
+,Tree of Life Christian Fellowship,905-957-7836,Yes,Unknown,4170 Fly Road ,Town of Lincoln,L0R1G0,LN4,Lincoln,-79.4313259999926,43.1348981332935
+,First Netherlands Reformed Congregation,905-562-0606,Yes,Netherlands Reformed,3890 Twenty-third Street ,Town of Lincoln,L0R2C0,LN3,Lincoln,-79.387795979432,43.1510510490803
+,Church of Jesus Christ of Latter Day Saints,905-684-3162,Yes,Church of Jesus Christ,351 Glenridge Avenue ,City of St. Catharines,L2T3K6,ST7,St. Catharines,-79.2382785803143,43.1323524004505
+,St. John's of Rila Bulgarian Eastern Orthodox Church,905-356-7151,Yes,Orthodox,4871 Willmott Street ,City of Niagara Falls,L2E1Z5,NF2,Niagara Falls,-79.0744517411145,43.103320546382
+,St. Andrew's Church,905-227-4844,Yes,Presbyterian,24 Clairmont Street ,City of Thorold,L2V2C1,TH2,Thorold,-79.198711244506,43.1238633467636
+,Bethany Community Church,905-937-5300,Yes,Missionary,1388 Third Street Louth ,City of St. Catharines,L2R6P9,ST1,St. Catharines,-79.2868149098597,43.1811392984116
+,Wellandport Church of Christ,905-386-0154,Yes,Church of Christ,72630 Regional Road 27,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.4109538012503,42.9897085135809
+,Christ Anglican Church,905-899-0209,Yes,Anglican,31970 Church Street ,Township of Wainfleet,L0S1V0,WF1,Wainfleet,-79.3759535906021,42.9262938007129
+,United Brethren in Christ Church,Not Available,No,United,2542 Stevensville Road ,Town of Fort Erie,L0S1S0,FE1,Fort Erie,-79.0543623077811,42.9438999510283
+,St. Thomas Moore Church,905-356-7533,Yes,Roman Catholic,6548 Dorchester Road ,City of Niagara Falls,L2G5T5,NF3,Niagara Falls,-79.1095083134811,43.0800617296794
+,Central Avenue United Church,905-871-3768,Yes,United,575 Central Avenue ,Town of Fort Erie,L2A6T4,FE4,Fort Erie,-78.9191657160898,42.9303911155142
+,Jehovah's Witnesses Kingdom Hall,905-682-9837,Yes,Jehovah's Witnesses,93 Moffatt Street ,City of St. Catharines,L2P2L6,ST8,St. Catharines,-79.2232162788908,43.1466578418128
+,Grace Anglican Church,905-685-7412,Yes,Anglican,238 Geneva Street ,City of St. Catharines,L2R4P8,ST9,St. Catharines,-79.2401215614251,43.1742323526651
+,Niagara International Worship Centre,905-356-0635,Yes,Pentecostal Assemblies,6846 Frederica Street ,City of Niagara Falls,L2G1E2,NF3,Niagara Falls,-79.1095537182729,43.0939217938649
+,Free Methodist Church of Canada,905-354-7006,Yes,Free Methodist,5470 Drummond Road ,City of Niagara Falls,L2H2Z8,NF3,Niagara Falls,-79.0971607092299,43.0949502527701
+,Church of Jesus Christ of Latter-Day Saints,905-991-0397,Yes,Church of Jesus Christ,660 Garrison Road ,Town of Fort Erie,L2E1Y3,FE5,Fort Erie,-78.9398933017287,42.9057965633972
+,All Nations Fellowship,905-894-6502,Yes,Non-Denominational,3397 Highway 3  ,Town of Fort Erie,L2A3N8,FE3,Fort Erie,-79.0423092188861,42.9032727673667
+,Jehovah's Witness Kingdom Hall,905-945-3223,Yes,Jehovah's Witnesses,164 Mountain Road ,Town of Grimsby,L3M4J3,GR1,Grimsby,-79.5639113867733,43.1770371621593
+,St. Peter's Lutheran Church,905-834-3231,Yes,Lutheran,200 Erie Street ,City of Port Colborne,L3K4M4,PC1,Port Colborne,-79.2538489571047,42.8971045793093
+,St. John's Presbyterian Church,Not Available,No,Presbyterian,10 Mountain Street ,Town of Grimsby,L3M3J6,GR3,Grimsby,-79.5630701062391,43.1932415118654
+,Calvary Baptist Church,905-382-2400,Yes,Baptist Independent,2494 Stevensville Road ,Town of Fort Erie,L2E6S6,FE1,Fort Erie,-79.0542505290096,42.9427454361263
+,Grace Community Church,905-680-4092,Yes,Reformed Church in America,241 Saint David's Road ,City of Thorold,L2V2T1,TH3,Thorold,-79.2243930968093,43.1230852721565
+,Eagles' Nest Community Church,905-682-9000,Yes,Word of Faith,3400 Schmon Parkway ,City of Thorold,L2V4Y6,TH4,Thorold,-79.2381721235999,43.1122765824324
+,Church of the Good Shepherd,905-934-9672,Yes,Anglican,361 Grantham Avenue ,City of St. Catharines,L2M4M2,ST13,St. Catharines,-79.2217259751163,43.1873046614633
+,Bertie Brethren in Christ,905-382-2646,Yes,Brethren in Christ,4943 Church Road ,Town of Fort Erie,L0S1N0,FE1,Fort Erie,-79.1011926806157,42.9408969370375
+,Church of Christ,905-834-5775,Yes,Church of Christ,700 Steele Street ,City of Port Colborne,L3K2S6,PC1,Port Colborne,-79.2604301880694,42.897420304269
+,All Saints Anglican Church,905-354-4144,Yes,Anglican,5680 Robinson Street ,City of Niagara Falls,L2G2B2,NF3,Niagara Falls,-79.0871579882803,43.085786312241
+,Main Street Baptist Church,905-354-9057,Yes,Baptist,6151 Main Street ,City of Niagara Falls,L2G6A3,NF3,Niagara Falls,-79.0907212141176,43.0850538296344
+,St. Mary's Church,905-734-3143,Yes,Roman Catholic,90 Griffith Street ,City of Welland,L3B4G4,WD3,Welland,-79.2475850701484,42.9887706335878
+,Merritt's United Church,905-692-9990,No,United,707 Church Road ,Township of West Lincoln,L0R1E0,WL2,West Lincoln,-79.6172090509663,43.0160073244484
+,Jordan Station United,905-562-4454,Yes,United,4105 Bridgeport Drive ,Town of Lincoln,L0R1S0,LN3,Lincoln,-79.3674179585382,43.1617251298868
+,St. Mary's Ukrainian Catholic Church,905-227-5120,Yes,Ukrainian Catholic,3 Towpath Street ,City of Thorold,L2V3K1,TH2,Thorold,-79.2008940834963,43.1211467221701
+,Village Bible Church,905-468-2252,Yes,Non-Denominational,437 Mississagua Street ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.0838373205346,43.2537095506345
+,St. Martin's Anglican Church,905-358-5636,No,Anglican,5720 Dorchester Road ,City of Niagara Falls,L2G5S3,NF3,Niagara Falls,-79.1101968362705,43.091240383844
+,St. Matthew's Evangelical Lutheran Church,905-734-4746,Yes,Lutheran,57 Griffith Street ,City of Welland,L3B4G6,WD3,Welland,-79.2490875382482,42.9883506603412
+,St. Andrew's Presbyterian Church,905-684-9514,Yes,Presbyterian,368 Merritt Street ,City of St. Catharines,L2P1P6,ST8,St. Catharines,-79.2137494264172,43.1416043637294
+,Faith in Christ Fellowship,905-871-7788,Yes,Non-Denominational,94 Jarvis Street ,Town of Fort Erie,L2A3W4,FE4,Fort Erie,-78.9177290674208,42.9300321022584
+,Fonthill Baptist Church,905-892-3925,Yes,Baptist,1414 Pelham Street ,Town of Pelham,L0S1E0,PE2,Pelham,-79.285850495486,43.0440149313468
+,Facer St. Baptist Church,905-937-6022,Yes,Baptist,17 Facer Street ,City of St. Catharines,L2M5H1,ST13,St. Catharines,-79.2283374590903,43.1750603511143
+,Redemptoristine Nuns,905-871-1885,Yes,Roman Catholic,2681 Niagara River Parkway ,Town of Fort Erie,L2A5M4,FE1,Fort Erie,-78.9789356666128,42.9572662001423
+,Church of Jesus Christ of Latter Day Saints,905-871-9974,Yes,Church of Jesus Christ,122 High Street ,Town of Fort Erie,L2A1Y1,FE4,Fort Erie,-78.9161602292294,42.9169890470264
+,First United Church,905-684-8309,Yes,United,95 Church Street ,City of St. Catharines,L2R3C7,ST10,St. Catharines,-79.2457431271166,43.1619813177539
+,Orchard Park Bible Church,905-468-5731,Yes,Mennonite Brethren,434 Hunter Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.1006785938328,43.241832903248
+,Glenview United Church,Not Available,No,United,263 Pelham Road ,City of St. Catharines,L2S1X7,ST4,St. Catharines,-79.2571375372221,43.1310356667063
+,Our Lady of Scapular Roman Catholic Church,905-358-7611,No,Roman Catholic,6557 Thorold Stone Road ,City of Niagara Falls,L2J1B2,NF1,Niagara Falls,-79.1064112396294,43.1157904075761
+,Louth United Church,905-688-3440,Yes,United,1429 Third Avenue Louth ,City of St. Catharines,L2R1H9,ST1,St. Catharines,-79.2917598884946,43.1643223322979
+,British Methodist Episcopal Church,905-682-0993,Yes,Methodist,92 Geneva Street ,City of St. Catharines,L2R4N2,ST9,St. Catharines,-79.2400118143935,43.1651664286442
+,Vineland Mennonite Brethren,905-562-7391,Yes,Mennonite Brethren,3970 Glendale Avenue ,Town of Lincoln,L0R2C0,LN3,Lincoln,-79.3994026897764,43.1535601703565
+,Niagara Christian Assembly,Not Available,No,Pentecostal Assemblies,2016 Niagara Stone Road ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.1003977479957,43.2389197274524
+,Grace United Church,905-468-4044,Yes,United,222 Victoria Street ,Town of Niagara-on-the-Lake,L0S1J0,NOTL1,Niagara-on-the-Lake,-79.0741205366427,43.2557163708318
+,Bethel Bapstist Church,905-682-9213,Yes,Baptist,10 Arlington Avenue ,City of St. Catharines,L2P3A4,ST9,St. Catharines,-79.2131702306393,43.1619017468219
+,Glengate Alliance Church,905-354-9073,Yes,Christian & Missionary,6271 Glengate Street ,City of Niagara Falls,L2E5S4,NF1,Niagara Falls,-79.099622143757,43.1103444332099

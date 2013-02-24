@@ -1,63 +1,104 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Find God in Niagara by dideler</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 100% }
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzHn_SAsN43iFXczp1O2Qq_qDWKaqQ1E8&sensor=false">
+    </script>
+    <script type="text/javascript">
+      function initialize() {
 
+        var nfLat = 43.030,
+            nfLng = -79.180,
+            nfLatLng = new google.maps.LatLng(nfLat, nfLng),
+            zoomNum = 11;
+
+        var mapOptions = {
+          panControl: false,
+          center: nfLatLng,
+          zoom: zoomNum,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+        var map = new google.maps.Map(document.getElementById("map_canvas"),
+            mapOptions);
+
+        /*
+        var dataset1 = 'https://www.filepicker.io/api/file/6RKwGZaQ4CiTC6JtxS31',
+ //'https://raw.github.com/dideler/find-god-in-niagara/master/datasets/worship.kml?login=dideler&token=241c11c5115dca93c168c295e1edd76e',
+            dataset2 = 'http://niagaraodi.cloudapp.net:8080/v1/Niagara%20Open%20Data/PlacesofWorship/';
+
+        var kmlLayer = new google.maps.KmlLayer(dataset2);
+        kmlLayer.setMap(map);
+        */
+
+        // https://developers.google.com/maps/documentation/javascript/layers#FusionTablesSetup
+        var layer1 = new google.maps.FusionTablesLayer({
+          query: {
+            select: 'Lng',
+            select: 'Lat',
+            from: '1LdBGtaRj1g9RLLm9lZCXD3HLF1KUwHBhc1Mn8rw'
+          },
+          query: {
+            select: 'Long',
+            select: 'Lat',
+            from: '1qDIf6TzPxOGbT38L9RB7MVVQ-Op4ezUJpWAY7UQ'
+          },
+          /* Y U NO WORK HEATMAP?! */
+          //heatmap: {
+          //  enabled: true
+          //},
+          styles: [{
+            markerOptions: { iconName: "church" }
+          }]
+        });
+        layer1.setMap(map);
+        
+        // https://developers.google.com/maps/documentation/javascript/layers#FusionTablesSetup
+        var layer2 = new google.maps.FusionTablesLayer({
+          query: {
+            select: 'Long',
+            select: 'Lat',
+            from: '1qDIf6TzPxOGbT38L9RB7MVVQ-Op4ezUJpWAY7UQ'
+          },
+          /* Y U NO WORK HEATMAP?! */
+          //heatmap: {
+          //  enabled: true
+          //},
+          styles: [{
+            markerOptions: { iconName: "church" }
+          }]
+        });
+        layer2.setMap(map);
+
+        /*
+        var popup = new google.maps.InfoWindow({
+          content: "Hello"
+        });
+
+        google.maps.event.addListener(marker, 'click', function(e) {
+            popup.open(map, this);
+        });
+        */
+
+        /* This is really annoying -- disable it.
+        google.maps.event.addListener(map, 'center_changed', function() {
+          // Pan back to the center, 10s after the center of the map has changed.
+          window.setTimeout(function() {
+            map.panTo(nfLatLng);
+            map.setZoom(zoomNum);
+          }, 10000);
+        });
+        */
+      }
+    </script>
   </head>
-  <body>
-
-      <header>
-        <h1>Find God in Niagara</h1>
-        <p>Places of worship in the Niagara Region</p>
-      </header>
-
-      <div id="banner">
-        <span id="logo"></span>
-
-        <a href="https://github.com/dideler/find-god-in-niagara" class="button fork"><strong>View On GitHub</strong></a>
-        <div class="downloads">
-          <span>Downloads:</span>
-          <ul>
-            <li><a href="https://github.com/dideler/find-god-in-niagara/zipball/master" class="button">ZIP</a></li>
-            <li><a href="https://github.com/dideler/find-god-in-niagara/tarball/master" class="button">TAR</a></li>
-          </ul>
-        </div>
-      </div><!-- end banner -->
-
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        <h1>Find God in Niagara</h1>
-
-<p>Places of worship in the Niagara Region</p>
-
-<p>Made during the <a href="http://opendata2013.softwareniagara.com/">Open Data Day Hackathon in Niagara</a>.</p>
-
-<h4>Data Sources</h4>
-
-<ul>
-<li><a href="http://www.niagarafalls.ca/services/open/data/187-worship.od">Worship - Niagara Falls Open Data</a></li>
-<li><a href="http://niagaraodi.cloudapp.net/DataBrowser/Niagara%20Open%20Data/PlacesofWorship#param=NOFILTER--DataView--Results">Places of Worship - Niagara Region Open Data</a></li>
-</ul><p><strong>Disclaimer:</strong> I'm not religious.</p>
-      </section>
-      <footer>
-        <p>Project maintained by <a href="https://github.com/dideler">dideler</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></small></p>
-      </footer>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
+  <body onload="initialize()">
+    <div id="map_canvas" style="width:100%; height:100%"></div>
   </body>
 </html>

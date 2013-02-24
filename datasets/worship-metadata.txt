@@ -1,0 +1,9 @@
+TITLE: Worship
+DESCRIPTION: This layer depicts the locations for places of worship in the City of Niagara Falls.
+DATA FIELDS: WSP_ID, NAME, ADDRESS, pID, SUPP_ID, SubCategory, cdUrl
+SOURCE: Niagara Falls Business Directory, place of worship websites, the Niagara Community Information Database, July 2011 Yellow Pages phonebook, and consultation with the planning department.
+COPYRIGHT: City of Niagara Falls
+MAINTENANCE: Bi-Annually
+DATUM: NAD 83
+PROJECTION: UTM 17
+CONTACT: Janet Kuipers (Information Systems) jkuipers@niagarafalls.ca
