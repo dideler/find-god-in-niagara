@@ -1,5 +1,5 @@
-Find God in Niagara
-===================
+[Find God in Niagara](http://dennisideler.com/find-god-in-niagara)
+==================================================================
 
 Places of worship in the Niagara Region
 
