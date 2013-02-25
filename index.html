@@ -57,6 +57,7 @@
           query: {
             from: '1tSIEOsAv9zNQqmWrk8A4y1jhosr4ISW64buf1uY'
           },
+          suppressInfoWindows: true,
           styles: [{
             markerOptions: { iconName: "church" }
           }]
@@ -66,14 +67,29 @@
         var infoWindow = new google.maps.InfoWindow();
 
         google.maps.event.addListener(niagaraFallsLayer, 'click', function(e) {
-          windowControl(e, infoWindow, map);
+          niagaraFallsWindowControl(e, infoWindow, map);
         });
 
-        // Open the info window at the clicked location
-        function windowControl(e, infoWindow, map) {
+        // Open the info window at the clicked location use custom content.
+        function niagaraFallsWindowControl(e, infoWindow, map) {
           infoWindow.setOptions({
-          content: '<b>Sorry</b>, no more data available for this location.<br>Please contact <a href="mailto:jkuipers@niagarafalls.ca"><b>Janet Kuipers</b></a> and express your<br>interest in improving open data from Niagara Falls.',
+            content: '<b>Sorry</b>, no more data available for this location.<br>Please contact <a href="mailto:jkuipers@niagarafalls.ca"><b>Janet Kuipers</b></a> and express your<br>interest in improving open data from Niagara Falls.',
                     //e.infoWindowHtml,
+            position: e.latLng,
+            pixelOffset: e.pixelOffset
+          });
+          infoWindow.open(map);
+        }
+        
+        google.maps.event.addListener(niagaraRegionLayer, 'click', function(e) {
+          niagaraRegionWindowControl(e, infoWindow, map);
+        });
+
+        // Open the info window at the clicked location use custom content.
+        function niagaraRegionWindowControl(e, infoWindow, map) {
+          var info = e.infoWindowHtml.replace("<b> :</b>", "");
+          infoWindow.setOptions({
+            content: info,
             position: e.latLng,
             pixelOffset: e.pixelOffset
           });
