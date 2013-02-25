@@ -41,43 +41,67 @@
         */
 
         // https://developers.google.com/maps/documentation/javascript/layers#FusionTablesSetup
-        var layer1 = new google.maps.FusionTablesLayer({
+        // Up to 5 layers can be shown simultaneously, but only 1 can have
+        // custom styling options. 
+        var niagaraFallsLayer = new google.maps.FusionTablesLayer({
           query: {
             select: 'Lng',
             select: 'Lat',
             from: '1LdBGtaRj1g9RLLm9lZCXD3HLF1KUwHBhc1Mn8rw'
           },
+          suppressInfoWindows: true
+        });
+        niagaraFallsLayer.setMap(map);
+
+        var niagaraRegionLayer = new google.maps.FusionTablesLayer({
           query: {
-            select: 'Long',
-            select: 'Lat',
-            from: '1qDIf6TzPxOGbT38L9RB7MVVQ-Op4ezUJpWAY7UQ'
+            from: '1tSIEOsAv9zNQqmWrk8A4y1jhosr4ISW64buf1uY'
           },
-          /* Y U NO WORK HEATMAP?! */
-          //heatmap: {
-          //  enabled: true
-          //},
           styles: [{
             markerOptions: { iconName: "church" }
           }]
         });
-        layer1.setMap(map);
+        niagaraRegionLayer.setMap(map);
         
-        // https://developers.google.com/maps/documentation/javascript/layers#FusionTablesSetup
-        var layer2 = new google.maps.FusionTablesLayer({
-          query: {
-            select: 'Long',
-            select: 'Lat',
-            from: '1qDIf6TzPxOGbT38L9RB7MVVQ-Op4ezUJpWAY7UQ'
-          },
-          /* Y U NO WORK HEATMAP?! */
-          //heatmap: {
-          //  enabled: true
-          //},
-          styles: [{
-            markerOptions: { iconName: "church" }
-          }]
+        var infoWindow = new google.maps.InfoWindow();
+
+        google.maps.event.addListener(niagaraFallsLayer, 'click', function(e) {
+          windowControl(e, infoWindow, map);
         });
-        layer2.setMap(map);
+
+        // Open the info window at the clicked location
+        function windowControl(e, infoWindow, map) {
+          infoWindow.setOptions({
+          content: '<b>Sorry</b>, no more data available for this location.<br>Please contact <a href="mailto:jkuipers@niagarafalls.ca"><b>Janet Kuipers</b></a> and express your<br>interest in improving open data from Niagara Falls.',
+                    //e.infoWindowHtml,
+            position: e.latLng,
+            pixelOffset: e.pixelOffset
+          });
+          infoWindow.open(map);
+        }
+        
+        // Add a listener to listen for zoom changed events
+        google.maps.event.addListener(map, 'zoom_changed', function() {
+          var zoomLevel = map.getZoom();
+          //alert('current = ' + zoomLevel + ', original = ' + zoomNum);
+          // Show a coarser geometry when the map is zoomed out
+          if (zoomLevel < zoomNum) {
+            niagaraFallsLayer.setOptions({
+              heatmap: { enabled: true }
+            });
+            niagaraRegionLayer.setOptions({
+              heatmap: { enabled: true }
+            });
+          }
+          else {
+            niagaraFallsLayer.setOptions({
+              heatmap: { enabled: false }
+            });
+            niagaraRegionLayer.setOptions({
+              heatmap: { enabled: false }
+            });
+          }
+        });
 
         /*
         var popup = new google.maps.InfoWindow({
